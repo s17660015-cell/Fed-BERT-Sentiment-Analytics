@@ -3,7 +3,7 @@
 ### Project Overview
 Macro trading strategies rely on understanding the tone of Federal Reserve policy. This project implements an **NLP** pipeline using the **BERT Transformer architecture** (`FinBERT`) to quantify the sentiment of FOMC statements from 2022 to 2024.
 
-By mapping soft-max probability outputs to a custom "Hawk-Dove Index," this engine visualizes the shift in monetary policy regimes without human bias.
+By mapping soft-max probability outputs to a custom Hawk-Dove Index, this engine visualizes the shifts in monetary policy "directions" without human bias.
 
 ### Key Output
 **The Hawk-Dove Sentiment Index (2022–2024)**
